@@ -1,2 +1,2 @@
-# git-Java_Scilab
- 
+# 935201 NUMERICAL METHODS FOR COMPUTER AND INFORMATION SCIENCE
+> * my work about Scilab since 2021
